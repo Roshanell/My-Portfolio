@@ -13,7 +13,7 @@ https://roshanellfrancisco.netlify.app/
 
 ## Optimizations
 
-this folio will display my journey into book development here you see my progress from simple sites created with HTML CSS and JavaScript two more complex projects ranging from ToDo apps to food checkers
+This porfolio will display my journey into book development here you see my progress from simple sites created with HTML CSS and JavaScript two more complex projects ranging from ToDo apps to food checkers
 
 ## Lessons Learned:
 
