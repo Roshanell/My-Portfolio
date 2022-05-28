@@ -5,6 +5,7 @@
 
 https://roshanellfrancisco.netlify.app/
 
+![Recording 2022-05-28 at 13 04 31](https://user-images.githubusercontent.com/96213223/170838203-703fc9a1-cb31-4ecf-96d2-6dc3bb89108b.gif)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
