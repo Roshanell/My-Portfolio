@@ -1,5 +1,5 @@
 (function () {
-    // When you click on your PFP, your PFP will interact and say something. Make a list for it to say!
+    // When you click on your PFP, your PFP will interact and say something. !
     let textEntries = ["Hi there, click me!",
         "do it again!",
         "*clears throat*",
