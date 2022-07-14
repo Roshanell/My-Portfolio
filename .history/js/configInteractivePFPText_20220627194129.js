@@ -4,7 +4,7 @@
         "do it again!",
         "*clears throat*",
         "Hi! I'm Roshanell!",
-        "I'm an educator turned software developer.",
+        "I'm an educator turned software engineer.",
         "I've been in tech for half a year,",
         "building awesome websites and software with 100Devs Agency.",
         "Nice to meet you, and let's connect!",
